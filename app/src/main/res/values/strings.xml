@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula2003</string>
+    <string name="somar">Somar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="dividir">Dividir</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="calcular">Calcular</string>
+    <string name="chamarSegundaTela">Chamar Segunda Tela</string>
+</resources>
