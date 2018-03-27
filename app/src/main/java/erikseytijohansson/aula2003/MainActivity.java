@@ -57,12 +57,9 @@ public class MainActivity extends AppCompatActivity {
 
     public void chamarSegundaTela(View view)
     {
-        //Intent intent = new Intent(this,SegundaTela.class);
-        //startActivity(intent);
-        Intent sendIntent = new Intent();
-        sendIntent.setAction(Intent.ACTION_SEND);
-        sendIntent.putExtra(Intent.EXTRA_TEXT, "This is my text to send.");
-        sendIntent.setType("text/plain");
-        startActivity(sendIntent);
+        Intent intent = new Intent(this,SegundaTela.class);
+        startActivity(intent);
+        // Mata a Activity MainActivity
+        //onDestroy();
     }
 }

@@ -6,4 +6,7 @@
     <string name="multiplicar">Multiplicar</string>
     <string name="calcular">Calcular</string>
     <string name="chamarSegundaTela">Chamar Segunda Tela</string>
+    <string name="kilo">kilo</string>
+    <string name="altura">altura</string>
+    <string name="calcularIMC">Calcular IMC</string>
 </resources>
